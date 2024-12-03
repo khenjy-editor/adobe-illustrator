@@ -1,0 +1,25 @@
+To do list :
+Desain tulisan : 
+	Nama
+		Font: ChunkFiveEx
+		Regular
+		Ukuran 60pt
+		Opacity 100%
+		Align Center
+		Warna 2e3192
+
+	Nomor Sertifikat
+		Font : Arial
+		Regular
+		Ukuran 34pt
+		Opacity 90%
+		Align Left
+		Warna 2e3192
+	Nomor sertifikat narasumber adalah yang terakhir dan tidak digenerate otomatis (export dari illustrator)
+		
+
+1. Buka illustrator, hapus bagian yg bisa berganti nama jadi kosong
+2. Export illustrator ke pdf
+3. Buka indesign
+4. Place pdf
+5. Buat
